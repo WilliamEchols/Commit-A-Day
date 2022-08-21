@@ -23,5 +23,6 @@ _____                           _ _           ___        ______
   <ol>
     <li><a>August 18, 2022 - todo list - C++</a></li>
     <li><a>August 19, 2022 - geometric pi estimator - C++</a></li>
+    <li><a>August 20, 2022 - an intentionally absurd attempt to disprove Goldbach's conjecture - C++</a></li>
   </ol>
 </details>
