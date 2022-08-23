@@ -13,7 +13,7 @@
 <h3 align="center">Commit-A-Day</h3>
 
   <p align="center">
-    A daily project to spend at least some time programming everyday.
+    A daily project to develop a small, standalone application every day.
   </p>
 </p>
 
@@ -26,5 +26,6 @@
     <li><a>August 20, 2022 - an intentionally absurd attempt to disprove Goldbach's conjecture - C++</a></li>
     <li><a>August 21, 2022 - 103 character program that ouputs the Fibonacci sequence using 4 memory cells (exercise in esoteric programming) - Brainf***</a></li>
     <li><a>August 22, 2022 - ASCII implementation of Conway's game of life with demonstration glider - C++</a></li>
+    <li><a>August 23, 2022 - ASCII-based roguelike style collection minigame - C++</a></li>
   </ol>
 </details>
