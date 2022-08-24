@@ -27,5 +27,6 @@
     <li><a>August 21, 2022 - 103 character program that ouputs the Fibonacci sequence using 4 memory cells (exercise in esoteric programming) - Brainf***</a></li>
     <li><a>August 22, 2022 - ASCII implementation of Conway's game of life with demonstration glider - C++</a></li>
     <li><a>August 23, 2022 - ASCII-based roguelike style collection minigame - C++</a></li>
+    <li><a>August 24, 2022 - a fully featured brainf*** interpreter - C++</a></li>
   </ol>
 </details>
