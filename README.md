@@ -29,5 +29,6 @@
     <li><a>August 23, 2022 - ASCII-based roguelike style collection minigame - C++</a></li>
     <li><a>August 24, 2022 - fully featured brainf*** interpreter - C++</a></li>
     <li><a>August 25, 2022 - Monty Hall simulation that demonstrates an increase in success rate when "switching" doors in a hypothetical gameshow - C++</a></li>
+    <li><a>August 26, 2022 - Piet (image-based esoteric language) development editor along with Piet program that outputs "Piet" created with aforementioned editor - Python</li>
   </ol>
 </details>
