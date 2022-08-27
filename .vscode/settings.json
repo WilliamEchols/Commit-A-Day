@@ -75,6 +75,10 @@
         "memory_resource": "cpp",
         "utility": "cpp",
         "stop_token": "cpp",
-        "__memory": "cpp"
+        "__memory": "cpp",
+        "__tree": "cpp",
+        "map": "cpp",
+        "regex": "cpp",
+        "stack": "cpp"
     }
 }
