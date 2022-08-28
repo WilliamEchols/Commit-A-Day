@@ -31,5 +31,6 @@
     <li><a>August 25, 2022 - Monty Hall simulation that demonstrates an increase in success rate when "switching" doors in a hypothetical gameshow - C++</a></li>
     <li><a><b>August 26, 2022 - Piet (image-based esoteric language) development editor along with Piet program that outputs "Piet" created with aforementioned editor - Python</b></a></li>
     <li><a>August 27, 2022 - bouncing dvd logo simulation using timing and better logging techniques - C++</a></li>
+    <li><a>August 28, 2022 - a Langton's ant simulation - C++</a></li>
   </ol>
 </details>
