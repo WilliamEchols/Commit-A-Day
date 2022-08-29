@@ -32,5 +32,6 @@
     <li><a><b>August 26, 2022 - Piet (image-based esoteric language) development editor along with Piet program that outputs "Piet" created with aforementioned editor - Python</b></a></li>
     <li><a>August 27, 2022 - bouncing dvd logo simulation using timing and better logging techniques - C++</a></li>
     <li><a>August 28, 2022 - a Langton's ant simulation - C++</a></li>
+    <li><a>August 29, 2022 - stickman repeats a variable-length input string (reminiscent of the classic cowsay progrm) - brainf***</a></li>
   </ol>
 </details>
