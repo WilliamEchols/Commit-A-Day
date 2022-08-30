@@ -33,5 +33,6 @@
     <li><a>August 27, 2022 - bouncing dvd logo simulation using timing and better logging techniques - C++</a></li>
     <li><a>August 28, 2022 - a Langton's ant simulation - C++</a></li>
     <li><a>August 29, 2022 - stickman repeats a variable-length input string (reminiscent of the classic cowsay progrm) - brainf***</a></li>
+    <li><a>August 30, 2022 - text to brainf*** output converter (input text is transferred into a minimalistic bf hex output) - C++</a></li>
   </ol>
 </details>
