@@ -35,5 +35,6 @@
     <li><a>August 29, 2022 - stickman repeats a variable-length input string (reminiscent of the classic cowsay progrm) - brainf***</a></li>
     <li><a>August 30, 2022 - text to brainf*** output converter (input text is transferred into a minimalistic bf hex output) - C++</a></li>
     <li><a>August 31, 2022 - basic, Python-based GUI text editor - Python</a></li>
+    <li><a>September 1, 2022 - simple asteroids-style game - Python</a></li>
   </ol>
 </details>
