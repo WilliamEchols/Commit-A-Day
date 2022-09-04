@@ -13,7 +13,7 @@
 <h3 align="center">Commit-A-Day</h3>
 
   <p align="center">
-    A collection of small, standalone projects built in a day.
+    A collection of standalone, hobby projects built in a day.
   </p>
 </p>
 
@@ -36,5 +36,6 @@
     <li><a>August 30, 2022 - text to brainf*** output converter (input text is transferred into a minimalistic bf hex output) - C++</a></li>
     <li><a>August 31, 2022 - basic, Python-based GUI text editor - Python</a></li>
     <li><a>September 1, 2022 - simple asteroids-style game - Python</a></li>
+    <li><a>September 3, 2022 - rock paper scissors - C++</a></li>
   </ol>
 </details>
