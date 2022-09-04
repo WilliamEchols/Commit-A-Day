@@ -13,7 +13,7 @@
 <h3 align="center">Commit-A-Day</h3>
 
   <p align="center">
-    A daily project to develop a small, standalone application every day.
+    A collection of small, standalone projects built in a day.
   </p>
 </p>
 
