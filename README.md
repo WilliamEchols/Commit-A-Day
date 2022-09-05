@@ -38,5 +38,6 @@
     <li><a>September 1, 2022 - simple asteroids-style game - Python</a></li>
     <li><a>September 3, 2022 - rock paper scissors - C++</a></li>
     <li><a>September 4, 2022 - interactive hexagonal board for tic tac toe - Python</a></li>
+    <li><a>September 5, 2022 - randomized quicksort visualizer - Python</a></li>
   </ol>
 </details>
