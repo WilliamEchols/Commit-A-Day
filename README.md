@@ -39,6 +39,7 @@
     <li><a>September 3, 2022 - rock paper scissors - C++</a></li>
     <li><a>September 4, 2022 - interactive hexagonal board for tic tac toe - Python</a></li>
     <li><a><u>September 5, 2022 - randomized quicksort visualizer - Python</u></a></li>
-    <li><a><u>September 6, 2022 - basic todo app written in Go - Go</u></a></li>
+    <li><a>September 6, 2022 - basic todo app written in Go - Go</a></li>
+    <li><a><u>September 7, 2022 - Not Well Compressed (.nwc) basic compression algorithm (1%-17% more compact than original file based on testing) - Go</u></a></li>
   </ol>
 </details>
