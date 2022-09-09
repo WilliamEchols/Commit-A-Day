@@ -42,5 +42,7 @@
     <li><a>September 6, 2022 - basic todo app written in Go - Go</a></li>
     <li><a><u>September 7, 2022 - Not Well Compressed (.nwc) basic compression algorithm (1%-17% more compact than original file based on testing) - Go</u></a></li>
     <li><a><u>September 8, 2022 - custom esoteric/steganographic language interpreter - Go</u></a></li>
+    <li><a>September 9, 2022 - 2d car racing game framework with track collision - Python</a></li>
+
   </ol>
 </details>
