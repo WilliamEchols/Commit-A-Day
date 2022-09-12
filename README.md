@@ -44,6 +44,7 @@
     <li><a><u>September 8, 2022 - custom esoteric/steganographic language interpreter - Go</u></a></li>
     <li><a>September 9, 2022 - 2d car racing game framework with track collision - Python</a></li>
     <li><a>September 10, 2022 - generational neural network for yesterday's game - Python</a></li>
+    <li><a>September 11, 2022 - basic semi-3d ASCII coin - C++</a></li>
 
   </ol>
 </details>
