@@ -45,6 +45,7 @@
     <li><a>September 9, 2022 - 2d car racing game framework with track collision - Python</a></li>
     <li><a>September 10, 2022 - generational neural network for yesterday's game - Python</a></li>
     <li><a>September 11, 2022 - basic semi-3d ASCII coin - C++</a></li>
+    <li><a>September 12, 2022 - to be determined - n/a</a></li>
 
   </ol>
 </details>
