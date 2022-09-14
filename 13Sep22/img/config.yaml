@@ -1,0 +1,108 @@
+- category: Background
+  layer: -15
+  type: 'value'
+  folder: ./img/background/
+  values:
+    - id: 'solid-bgr'
+      name: Solid Background
+      src: solid.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+    - id: 'dotted-bgr'
+      name: Dotted Background
+      src: dots.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+    - id: 'striped-bgr'
+      name: Striped Background
+      src: stripe.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+  probs:
+    - 0.50
+    - 0.30
+    - 0.20
+- category: Skin
+  layer: -10
+  type: 'value'
+  folder: ./img/skin/
+  values:
+    - id: 'solid-skin'
+      name: Solid Skin
+      src: solid.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+    - id: 'dotted-skin'
+      name: Dotted Background
+      src: dots.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+    - id: 'striped-skin'
+      name: Striped Skin
+      src: stripe.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+  probs:
+    - 0.50
+    - 0.30
+    - 0.20
+- category: Hat
+  layer: 10
+  type: 'value'
+  folder: ./img/hat/
+  values:
+    - id: 'no-hat'
+      name: No Hat
+      src: ../blank.png
+      values: ['000000']
+      probs: [1.00]
+      sub_names: ['N/A']
+    - id: 'beanie-hat'
+      name: Beanie
+      src: beanie.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+    - id: 'top-hat'
+      name: Top Hat
+      src: top-hat.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+  probs:
+    - 0.50
+    - 0.30
+    - 0.20
+- category: Transportation
+  layer: 5
+  type: 'value'
+  folder: ./img/transportation/
+  values:
+    - id: 'no-transport'
+      name: No Transport
+      src: ../blank.png
+      values: ['000000']
+      sub_names: ['N/A']
+      probs: [1.00]
+    - id: 'scooter-transport'
+      name: Scooter
+      src: scooter.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+    - id: 'skateboard-transport'
+      name: Skateboard
+      src: skateboard.png
+      values: ['6488F1', '263D80', 'E35200', '733ED4', 'FA00F5', 'FFBF00']
+      sub_names: ['Light Blue', 'Dark Blue', 'Orange', 'Purple', 'Pink', 'Gold']
+      probs: [0.50, 0.25, 0.12, 0.08, 0.04, 0.01]
+  probs:
+    - 0.70
+    - 0.20
+    - 0.10
