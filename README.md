@@ -46,6 +46,7 @@
     <li><a>September 10, 2022 - generational neural network for yesterday's game - Python</a></li>
     <li><a>September 11, 2022 - basic semi-3d ASCII coin - C++</a></li>
     <li><a>September 13, 2022 - randomized layered-image generation - Python</a></li>
+    <li><a>September 14, 2022 - GPT-2 text model - Python</a></li>
 
   </ol>
 </details>
