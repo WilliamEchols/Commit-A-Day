@@ -47,7 +47,7 @@
     <li><a>September 11, 2022 - basic semi-3d ASCII coin - C++</a></li>
     <li><a>September 13, 2022 - randomized layered-image generation - Python</a></li>
     <li><a>September 14, 2022 - GPT-2 text model - Python</a></li>
-    <li><a>September 15, 2022 - tbd - n/a</a></li>
+    <li><a>September 18, 2022 - text overlay on ASCII image - Python</a></li>
 
   </ol>
 </details>
