@@ -48,6 +48,7 @@
     <li><a>September 13, 2022 - randomized layered-image generation - Python</a></li>
     <li><a>September 14, 2022 - GPT-2 text model - Python</a></li>
     <li><a>September 18, 2022 - text overlay on ASCII image - Python</a></li>
+    <li><a>September 27, 2022 - minimal-length superpermutation calculator - C++</a></li>
 
   </ol>
 </details>
